@@ -3,4 +3,3 @@ take input from user
 and add the values!
 
 submitdata to database
-kbs
